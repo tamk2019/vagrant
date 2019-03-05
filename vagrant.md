@@ -1,9 +1,9 @@
-#Vagrant
+# Vagrant
 
 Vagrant is virtual machine managment software.
 It's used for automating service tasks, skript handling and so on....
 
-#For whom?
+# For whom?
 
 Vagrant is desinged for Service Operators, DevOps engineers,
 Desingers and for hobbyisties.
@@ -11,7 +11,7 @@ Desingers and for hobbyisties.
 Most of all its easy to use, has lots of ready on boxes to choose
 your own environment.
 
-#Installing
+# Installing
 ---ubuntu -for other systems:
 
 https://www.vagrantup.com/downloads.html
@@ -25,7 +25,7 @@ Installing Vagrant:
 ```bash
 sudo apt install vagrant
 ```
-#Project
+# Project
 
 Create project folder to your desired location,
 ```bash
@@ -51,6 +51,6 @@ vagrant halt
 vagrant destroy
 ```
 
-For more information:
+# F or more information:
 
 https://www.vagrantup.com/docs/index.html
